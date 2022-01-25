@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jenesaisnada
+- 🧠 I know ... nothing
 - 👀 I’m interested in ... everything
 - 🌱 I’m currently learning ... everything
-- 💞️ I’m looking to collaborate on ... everything
+- 💞️ I’m looking to collaborate on ... something
 - 📫 How to reach me ... [my username]+gh.[yourusername]@pm.me
 - 🔮 Maybe someday, I'll actually fill this with useful info.
 
